@@ -34,10 +34,3 @@ So, finally, I decided to split the book into two different books. One business 
 
 Oh and I want to give a shout-out to my early adopters! Many thanks to the 9 readers I got after a bit of Twittering! I love to hear what you think of it. To the others, the majority, I would like to invite you to take a look at my writing attempt as well and tell me what you think. They are both still very early stage, but I will just keep iterating until they done.
 
-<center>
-  <a href="/leanpub"><img src="/images/lean-startup-for-developers-business-book.png" class="book-cover"></a>
-  <a href="/leanpub"><img src="/images/lean-startup-for-developers-technology-book.png" class="book-cover"></a>
-</center>
-
-## <center><a href="/leanpub">Go get the bundle now, at leanpub!</a></center>
-

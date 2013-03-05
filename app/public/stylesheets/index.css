@@ -31,7 +31,7 @@ header {
   border-bottom: 1px solid #2f3033;
   overflow: visible;
 }
-.banner .button {
+.button {
   -moz-box-shadow: inset 0px 1px 0px 0px #e6e6e6;
   -webkit-box-shadow: inset 0px 1px 0px 0px #e6e6e6;
   box-shadow: inset 0px 1px 0px 0px #e6e6e6;
@@ -52,13 +52,13 @@ header {
   text-shadow: 1px 1px 0px #dbdbdb;
   margin: 10px;
 }
-.banner .button:hover {
+.button:hover {
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #c0a847), color-stop(1, #dbc778));
   background: -moz-linear-gradient(center top, #c0a847 5%, #dbc778 100%);
   filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#c0a847', endColorstr='#dbc778')";
   background-color: #c0a847;
 }
-.banner .button:active {
+.button:active {
   position: relative;
   top: 1px;
 }
