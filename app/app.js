@@ -45,15 +45,16 @@ app.all('*', function(req, res, next) {
   }
 
   if (req.headers.host.substring(0, 4).toLowerCase() === "www.") {
-    return res.redirect("https://" + req.headers.host.substring(4) + req.url)
+    return res.redirect("http://" + req.headers.host.substring(4) + req.url)
   }
 
-  var url = "/get/script"
-  if (schema.toLowerCase() === "https" || req.url.toLowerCase().substring(0, url.length) === url || schema === undefined) {
-    return next()
-  }
+  // var url = "/get/script"
+  // if (schema.toLowerCase() === "https" || req.url.toLowerCase().substring(0, url.length) === url || schema === undefined) {
+  //   return next()
+  // }
 
-  res.redirect("https://" + req.headers.host + req.url)
+  // res.redirect("http://" + req.headers.host + req.url)
+  return next()
 })
 
 // GLOBALS OH MY!
