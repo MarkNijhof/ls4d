@@ -6,27 +6,15 @@
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>https://inqob.com/</loc>
+    <loc>https://ls4d.com/</loc>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://inqob.com/website_owners</loc>
+    <loc>https://ls4d.com/blog</loc>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://inqob.com/employers</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://inqob.com/examples</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://inqob.com/instructions</loc>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://inqob.com/private_submissions</loc>
+    <loc>https://ls4d.com/blog/introducing-lean-startup-for-developers</loc>
     <changefreq>daily</changefreq>
   </url>
 </urlset>
