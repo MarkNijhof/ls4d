@@ -30,7 +30,10 @@ So, finally, I decided to split the book into two different books. One business 
 
 [Sebastian Hermida](https://twitter.com/sbastn) created [leanpub covers](http://leanpubcovers.com) and I asked him to help me out with my book covers. Because it is true what they say; People judge a book by its cover. And together we arrived at my current covers. I am really happy with them. They express the fact that running a startup is chaotic because there are so many things that you need to do and know. And they express that in order to get the Enso circle complete, you need both the business side and the technology side. And they do all that, and still look very clean.
 
-So I would like to invite you to take a look at my writing attempt and tell me what you think. They are both still very early stage, but I will just keep iterating until they done.
+### First readers
+
+Oh and I want to give a shout-out to my early adopters! Many thanks to the 9 readers I got after a bit of Twittering! I love to hear what you think of it. To the others, the majority, I would like to invite you to take a look at my writing attempt as well and tell me what you think. They are both still very early stage, but I will just keep iterating until they done.
+
 <center>
   <a href="/leanpub"><img src="/images/lean-startup-for-developers-business-book.png" class="book-cover"></a>
   <a href="/leanpub"><img src="/images/lean-startup-for-developers-technology-book.png" class="book-cover"></a>
