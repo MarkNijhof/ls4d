@@ -29,6 +29,38 @@ header {
   border: 0px none #f2f2f2;
   border-top: 1px solid #2f3033;
   border-bottom: 1px solid #2f3033;
+  overflow: visible;
+}
+.banner .button {
+  -moz-box-shadow: inset 0px 1px 0px 0px #e6e6e6;
+  -webkit-box-shadow: inset 0px 1px 0px 0px #e6e6e6;
+  box-shadow: inset 0px 1px 0px 0px #e6e6e6;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #dbc778), color-stop(1, #c0a847));
+  background: -moz-linear-gradient(center top, #dbc778 5%, #c0a847 100%);
+  filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#dbc778', endColorstr='#c0a847')";
+  background-color: #dbc778;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  border: 1px solid #696969;
+  display: inline-block;
+  color: #2f3033;
+  font-family: arial;
+  font-size: 1.4em;
+  padding: 12px 48px;
+  text-decoration: none;
+  text-shadow: 1px 1px 0px #dbdbdb;
+  margin: 10px;
+}
+.banner .button:hover {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #c0a847), color-stop(1, #dbc778));
+  background: -moz-linear-gradient(center top, #c0a847 5%, #dbc778 100%);
+  filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#c0a847', endColorstr='#dbc778')";
+  background-color: #c0a847;
+}
+.banner .button:active {
+  position: relative;
+  top: 1px;
 }
 .content-box {
   position: relative;
@@ -73,7 +105,7 @@ h1 a {
   text-decoration: none;
   color: #f2f2f2;
 }
-h1 a:hover {
+h1 a: hover {
   text-decoration: none;
   color: #2f3033;
 }
@@ -97,18 +129,18 @@ h4 {
 }
 p {
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 1.6em;
+  font-size: 1.2em;
   font-weight: 400;
-  line-height: 1em;
+  line-height: 1.6em;
   margin: 0px;
   color: #2f3033;
   padding: 10px 0px 20px;
 }
 ul {
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 1.6em;
+  font-size: 1.2em;
   font-weight: 400;
-  line-height: 1em;
+  line-height: 1.6em;
   color: #2f3033;
 }
 .books {
@@ -120,14 +152,15 @@ ul {
 }
 .book-cover {
   position: relative;
-  width: 300px;
+  width: 400px;
   border: 1px solid #2f3033;
   margin: 50px 20px;
 }
 .content {
   position: relative;
   margin: 0px auto;
-  width: 800px;
+  width: 80%;
+  max-width: 800px;
   text-align: left;
   padding: 10px 0px;
 }
@@ -144,14 +177,14 @@ ul {
 .content h3 a {
   color: #2f3033;
 }
-.content h3 a:hover {
+.content h3 a: hover {
   color: #c0a747;
 }
 .content a {
   text-decoration: none;
   color: #c0a747;
 }
-.content a:hover {
+.content a: hover {
   text-decoration: none;
   color: #2f3033;
 }
