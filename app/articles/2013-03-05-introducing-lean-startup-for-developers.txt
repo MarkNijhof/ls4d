@@ -1,0 +1,40 @@
+{
+  "date": "05.03.2013",
+  "title": "Introducing Lean Startup For Developers",
+  "url": "introducing-lean-startup-for-developers",
+  "abstract": "",
+  "published": true
+}
+
+content:
+
+<center>
+  <img src="http://cre8ivethought.com/images/giraf.jpg" width="600px" />
+</center>
+
+Today I introduce to the world, my writing project; [Lean Startup for Developers](http://ls4d.com/leanpub), it is a bit of a crazy idea. 
+
+I am currently working on two different startup ideas. The two ideas are very different from each other; one is a service oriented idea, while the other deals with physical products. Both however are about improving the work situation, the former by improving the way we find work and the later by getting people to challenge the status quo.
+
+### Leanpub
+
+I wanted to share my experiences, from a developers point of view, working on these two different startup ideas. Initially I thought I would just blog about them, but then I discovered [leanpub](http://leanpub.com) which made me very curious. So, I decided to give it a try, and here we are.
+
+### Two books
+
+Initially I was working on one book, but I had trouble making the different type of content fit nicely together. One is the story about [Inqob](https://inqob.com) and [Random Manager](http://randommanager.com) and all the non developer things I have to learn while working on these ideas. The other content is mostly a collection of technology recipes, chapters about how to quickly get stuff done. 
+
+So, finally, I decided to split the book into two different books. One business book and one technology book. And I really like this idea, because it becomes even clearer that in order to be successful you need both parts. 
+
+### The covers
+
+[Sebastian Hermida](https://twitter.com/sbastn) created [leanpub covers](http://leanpubcovers.com) and I asked him to help me out with my book covers. Because it is true what they say; People judge a book by its cover. And together we arrived at my current covers. I am really happy with them. They express the fact that running a startup is chaotic because there are so many things that you need to do and know. And they express that in order to get the Enso circle complete, you need both the business side and the technology side. And they do all that, and still look very clean.
+
+So I would like to invite you to take a look at my writing attempt and tell me what you think. They are both still very early stage, but I will just keep iterating until they done.
+<center>
+  <a href="/leanpub"><img src="/images/lean-startup-for-developers-business-book.png" class="book-cover"></a>
+  <a href="/leanpub"><img src="/images/lean-startup-for-developers-technology-book.png" class="book-cover"></a>
+</center>
+
+## <center><a href="/leanpub">Go get the bundle now, at leanpub!</a></center>
+
